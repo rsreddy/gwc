@@ -9,6 +9,7 @@
 
 ### Welcome to Girls Who Code
 * Build a sisterhood and be a part of the GWC Community [learn more](https://girlswhocode.com/)
+* Have returning girls describe what it meant them last year.
 
 ### Our Club
 * Make Contract
