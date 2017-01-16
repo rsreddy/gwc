@@ -12,7 +12,7 @@
 
 ### Our Club
 * Make Contract
-* CS Impact Project - [Gallery](http://projects.girlswhocode.com/)
+* CS Impact Project and Past projects - [Gallery](http://projects.girlswhocode.com/)
 * The Core4
   * Loops
   * Variables
