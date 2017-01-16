@@ -17,14 +17,9 @@ Define sisterhood and agree on expectations as a team
 * [Canvas](https://girlswhocode.instructure.com/login/canvas)
 
 ### Explore YouTube
-Yoga? and Coding?
-* [Watch](https://www.youtube.com/watch?v=h8JarLIyFpY)
-
-Subscribe to Girls Who Code
-* [Watch](https://www.youtube.com/user/GirlsWhoCode)
-
-Subscribe to Code.org
-* [Watch](https://www.youtube.com/watch?v=1x54GqfL3UY)
+* Yoga? and Coding? [Watch](https://www.youtube.com/watch?v=h8JarLIyFpY)
+* Subscribe to Girls Who Code [Watch](https://www.youtube.com/user/GirlsWhoCode)
+* Subscribe to Code.org [Watch](https://www.youtube.com/watch?v=1x54GqfL3UY)
 
 Activity
 * [Intelligent Piece of Paper](http://www.cs4fn.org/teachers/activities/intelligentpaper/intelligentpaper.pdf)

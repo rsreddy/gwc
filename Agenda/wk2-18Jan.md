@@ -3,9 +3,9 @@
 * Verify everyone is enrolled
 
 ### Discussion
-* What is Computer Science?
-* What is a computer/an application?
-* What are your favorite apps and why?
+* What is Computer Science? [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+* What is a computer? [Wikipedia](https://en.wikipedia.org/wiki/Computer)
+* What are your favorite apps and why? [Wikipedia](https://en.wikipedia.org/wiki/Computer_program)
 
 ### Welcome to Girls Who Code
 * Build a sisterhood and be a part of the GWC Community [learn more](https://girlswhocode.com/)
