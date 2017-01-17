@@ -12,7 +12,7 @@
 * Have returning girls describe what it meant them last year.
 
 ### Our Club
-* Make Contract
+* [Our Contract](../Club\ Contract/contract.md)
 * CS Impact Project and Past projects - [Gallery](http://projects.girlswhocode.com/)
 * The Core4
   * Loops
