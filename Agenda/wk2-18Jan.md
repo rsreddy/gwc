@@ -28,7 +28,7 @@
 
 ### Canvas
 * [Login](https://girlswhocode.instructure.com/login/canvas)
-* Take a Pre-Test (this is a baseline)
+* Take a baseline [Pre-Test](https://www.tfaforms.com/439052) 
 
 ### Activity
 * Let's try Yoga - Sun Salutation [Watch](https://www.youtube.com/watch?v=EpWenYr6W0A)
