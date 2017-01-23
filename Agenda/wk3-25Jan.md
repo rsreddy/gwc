@@ -8,6 +8,7 @@
   * Ideas
     * Community?
     * Personal Project? 
+    * Inspirations?
   * Maybe split into groups based on interests? 
     * Robotics
     * Games and Music
