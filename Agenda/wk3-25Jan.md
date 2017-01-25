@@ -4,6 +4,8 @@
 
 ### Discussion
 * How did the PreTest go?
+* Year At A Glance
+![Image of Timeline](../Year-at-a-Glance.jpg)
 * Determine our CS Impact Project
   * Ideas
     * Community?
@@ -17,7 +19,7 @@
 ### Community Mapping
 * What is a community? 
   * Exercise: List all the communities you belong to 
-* Let's Dot Vote
+* [Let's Dot Vote](http://www.funretrospectives.com/dot-voting/)
 * Identify common themes?
 
 ### Identifying a Focus
@@ -28,7 +30,7 @@
   * What could be done to make this community better? 
 * Write your Answer on Post-Its
 * Point out common patterns and topics 
-* Use stickers to vote keeping in mind 
+* Use stickers to vote keeping in mind answers to the following questions
   * Which of these topics has the most impact on my community?
   * Which of these topics has the best chance of success?
   * Which of these topics will help me learn the most?
@@ -59,12 +61,17 @@
 * [Block Programming Code.org](https://studio.code.org/s/course4)
 * [JavaScript at Code.org](https://code.org/educate/applab)
 * [iOS Swift](http://www.apple.com/swift/playgrounds/)
-
-* [Codesters](https://www.codesters.com/) - A self-paced environment for learning Python and creating personal projects. Requires an account and password.
-* [EarSketch](https://earsketch.gatech.edu/earsketch2/) - a platform that lets you compose your own music by programming in Python or JavaScript.
-* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy) - Used for live programming/editing, sharing code, and video resources. 
-* [ProcessingJS](http://processingjs.org/) - API used to enhance assignments
-* [JSFiddle](https://jsfiddle.net/) - Used for building websites and sharing code 
-* [Fluid UI](https://www.fluidui.com/?utm_source=adwords&utm_campaign=fluid-ui&utm_medium=cpc_term=FluidSearches) - Live editor used for building storyboarding/wireframing and building websites 
+* [Codesters](https://www.codesters.com/)
+  * A self-paced environment for learning Python and creating personal projects. Requires an account and password.
+* [EarSketch](https://earsketch.gatech.edu/earsketch2/)
+  * A platform that lets you compose your own music by programming in Python or JavaScript.
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy)
+  * Used for live programming/editing, sharing code, and video resources. 
+* [ProcessingJS](http://processingjs.org/)
+  * API used to enhance assignments
+* [JSFiddle](https://jsfiddle.net/)
+  * Used for building websites and sharing code 
+* [Fluid UI](https://www.fluidui.com/?utm_source=adwords&utm_campaign=fluid-ui&utm_medium=cpc_term=FluidSearches)
+  * Live editor used for building storyboarding/wireframing and building websites 
 
 Please note: Curriculum links are also found in Canvas [Modules](https://girlswhocode.instructure.com/courses/951/modules) as well.  This is just a quickstart. 
