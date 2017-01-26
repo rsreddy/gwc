@@ -4,8 +4,8 @@
 * Did you like the Dot Voting Exercise for the CS Impact Project?
 * What did we determine from our talks
   * Select top 3 projects & maybe split into 3 groups of 8
-* Github
-* Slack
+* Did you Sign up at [Github](https://github.com/)?
+* Did you receive your [Slack](https://slack.com/) invites?
 
 ### Discussion
 * The top 3 were:
@@ -25,13 +25,14 @@
 * Agile 
 * Trello? FluidUI?
 * Self-Managment
+* Select your Pairs
 
 ### Our Format
 * Retrospective
 * Discussion
 * In class Coding Exercise
 * Motivation Tidbit
-* Coding Time
+* Pair Programming
 * Yoga (optional)
 
 ### CS Activity Set
