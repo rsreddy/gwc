@@ -22,8 +22,12 @@
 * What groups of people or communities are impacted by our topic?
 
 ### Set Goals and Define Success
-* Agile 
-* Trello? FluidUI?
+* Agile
+  * Standup
+  * Sprint Ceremonies
+    * 2 weeks
+    * Demo
+* Trello? FluidUI? Paper w/post-its?
 * Self-Managment
 * Select your Pairs
 
