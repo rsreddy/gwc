@@ -45,8 +45,7 @@
 * [Select your CS Activity Set](https://docs.google.com/document/d/1LBkpn1TK3J3InwlbLROLHOGvNAEPVR8xRb5Ax1jEF6U/preview#heading=h.x2dqe12x9rpe)
 
 ### Activity
-* Write in your journal
-* Yoga - Continuation of Hatha Yoga 
+* Yoga (Optional)
 
 ### Next week
 * Research our topic(s)
