@@ -9,9 +9,9 @@
 
 ### Discussion
 * The top 3 were:
-  * 
-  * 
-  * 
+  * Good News Site
+  * Game Creation
+  * Coding Tutorial App
 * Options
 
 ### Identifying a Focus
