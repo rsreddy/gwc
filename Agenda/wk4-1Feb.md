@@ -48,11 +48,11 @@
 
 ### CS Activity Set
 * [Select your CS Activity Set](https://docs.google.com/document/d/1LBkpn1TK3J3InwlbLROLHOGvNAEPVR8xRb5Ax1jEF6U/preview#heading=h.x2dqe12x9rpe)
-* [Fashion in Scratch](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwSVNLbXEtb0VjNTA)
-* [Storytelling in Codesters in Python](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwYkJxN2dqZGZvRUU)
-* [Video Games in Actimator](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwdUtvWkNrZi1wYms)
-* [Digital Art in Khan Academy in Javascript](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwUG5TeWw0LTVrR0U)
-* [Music in EarSketch in Python or Javascript](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwWm9Wb2Fpc2VNaTg0)
+  * [Fashion in Scratch](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwSVNLbXEtb0VjNTA)
+  * [Storytelling in Codesters in Python](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwYkJxN2dqZGZvRUU)
+  * [Video Games in Actimator](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwdUtvWkNrZi1wYms)
+  * [Digital Art in Khan Academy in Javascript](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwUG5TeWw0LTVrR0U)
+  * [Music in EarSketch in Python or Javascript](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwWm9Wb2Fpc2VNaTg0)
 
 ### Next Week
 
