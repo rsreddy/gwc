@@ -1,4 +1,5 @@
-# What are Loops (TODO: add link to a function from wikipedia/cs source)
+# What are Loops: Your app can do repeated work for you!
+[Wikipedia - For Loop](https://en.wikipedia.org/wiki/For_loop)
 
 ## In class Coding Exercise
 * Weather

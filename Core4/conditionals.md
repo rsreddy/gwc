@@ -1,4 +1,5 @@
-# What are Conditionals (TODO: add link to a function from wikipedia/cs source)
+# What are Conditionals - Your app can make decisions for you!
+[Wikipedia](https://en.wikipedia.org/wiki/Conditional_(computer_programming))
 
 ## In class Coding Exercise
 * Weather

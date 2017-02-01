@@ -1,4 +1,5 @@
-# What are Functions (TODO: add link to a function from wikipedia/cs source)
+# What are Functions: Your app can bundle commands and logic so you can use them when you want!
+[Wikipedia](https://en.wikipedia.org/wiki/Function_composition_(computer_science))
 
 ## In class Coding Exercise
 * Weather

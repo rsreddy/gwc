@@ -1,4 +1,5 @@
-# What are Variables (TODO: add link to a function from wikipedia/cs source)
+# What are Variables: Your app can store information 
+[Wikipedia](https://en.wikipedia.org/wiki/Variable_(computer_science))
 
 ## In class Coding Exercise
 * Weather

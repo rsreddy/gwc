@@ -1,7 +1,9 @@
 ### Retrospective
 * How did it go last week? Any questions?
 * Yoga (optional)
-* Did you like the Dot Voting Exercise for the CS Impact Project?
+* Reflection
+  * Generating Solutions: Did you like the Dot Voting Exercise for the CS Impact Project?
+  * Did you like 
 * What did we determine from our talks
   * Select top 3 projects & maybe split into 3 groups of 8
 * Did you Sign up at [Github](https://github.com/)?
@@ -14,33 +16,44 @@
   * Coding Tutorial App
 * Options
 
-### Identifying a Focus
+### Identify a Focus
 * Which of these topics has the most impact on my community?
 * Which of these topics has the best chance of success?
 * Which of these topics will help me learn the most?
 * Who is our audience? 
 * What groups of people or communities are impacted by our topic?
 
+### Choose a Solution
+* Draw the first few screens of the app/Site
+* Draw a simple use case diagram
+
 ### Set Goals and Define Success
-* Agile
+* [Agile/Scrum Methodology] (https://girlswhocode.instructure.com/courses/951/pages/scrum?module_item_id=179202)
   * Standup
   * Sprint Ceremonies
     * 2 weeks
     * Demo
-* Trello? FluidUI? Paper w/post-its?
-* Self-Managment
-* Select your Pairs
+* Paper w/post-its?
 
 ### Our Format
 * Retrospective
 * Discussion
-* In class Coding Exercise
+* Group Coding Exercises: The Core4
+ * Variables
+ * Functions
+ * Conditionals
+ * Loops
 * Motivation Tidbit
-* Pair Programming
+* Activity Set and/or work on your project
 * Yoga (optional)
 
 ### CS Activity Set
 * [Select your CS Activity Set](https://docs.google.com/document/d/1LBkpn1TK3J3InwlbLROLHOGvNAEPVR8xRb5Ax1jEF6U/preview#heading=h.x2dqe12x9rpe)
+* [Fashion in Scratch](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwSVNLbXEtb0VjNTA)
+* [Storytelling in Codesters in Python](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwYkJxN2dqZGZvRUU)
+* [Video Games in Actimator](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwdUtvWkNrZi1wYms)
+* [Digital Art in Khan Academy in Javascript](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwUG5TeWw0LTVrR0U)
+* [Music in EarSketch in Python or Javascript](https://drive.google.com/drive/u/0/folders/0B7Y3SK71FWkwWm9Wb2Fpc2VNaTg0)
 
 ### Next Week
 
