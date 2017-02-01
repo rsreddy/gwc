@@ -3,7 +3,6 @@
 * Yoga (optional)
 * Reflection
   * Generating Solutions: Did you like the Dot Voting Exercise for the CS Impact Project?
-  * Did you like 
 * What did we determine from our talks
   * Select top 3 projects & maybe split into 3 groups of 8
 * Did you Sign up at [Github](https://github.com/)?
