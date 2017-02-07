@@ -27,6 +27,7 @@
 * Demo (Swift Playground)
 
 ### Motivation Tidbit (2 min)
+[Video](https://www.youtube.com/watch?v=mFPg96gdPkc)
 
 ### Activity Set and/or work on your project (60 min)
 
