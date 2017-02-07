@@ -12,7 +12,7 @@
 ### Discussion (10 min)
 * Projects we are working on:
   * Good News Site
-  * Scavanger Hunt Game
+  * Scavenger Hunt Game
     * Split into 2
     * Figure out what each group wants to work on
 
