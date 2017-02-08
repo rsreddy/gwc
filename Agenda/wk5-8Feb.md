@@ -25,6 +25,7 @@
 ### Group Coding Exercise (15 min)
 * Let's talk about [Variables](../master/Core4/variables.md)
 * Demo (Swift Playground)
+* Look at all 4 in action (Scratch)
 
 ### Motivation Tidbit (2 min)
 [Video](https://www.youtube.com/watch?v=mFPg96gdPkc)
