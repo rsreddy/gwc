@@ -1,5 +1,6 @@
 ### Retrospective (10 Min)
 * How did it go last week? Any questions?
+  * We didnt really limit ourselves; Dream *BIG*
 * Is everyone on [Github](https://github.com/)?
 * Reflection
   * Do you like your Activity Sets? 
@@ -22,8 +23,17 @@
     * ChooseYourAdventure
     * CartoonTrivia
 
-### Community in Mind (10 min)
-* TODO List talking points
+### Community in Mind (5 min)
+* Use Case Diagram for your project - Narrow it down
+  * Multiple kinds of users
+  * Sequence of interactions with the product
+
+### MVP (5 min)
+* Create Paper Mockups and Present
+
+### WWW (Web Developmen)
+![Image of Anatomy of Web](../images/webdiagramjpg)
+![Image of Anatomy of Web Server](../images/webdiagramII.jpg)
 
 ### Motivation Tidbit (2 min)
 [Video](https://www.youtube.com/watch?v=mFPg96gdPkc)
