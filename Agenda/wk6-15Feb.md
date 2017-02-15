@@ -15,6 +15,10 @@
 * Follow Along: Functions
 * Setting up our What to Wear Weather App
 
+### WWW (Web Developmen)
+![Image of Anatomy of Web](../images/webdiagram.jpg)
+![Image of Anatomy of Web Server](../images/webdiagramII.jpg)
+
 ### Discussion (10 min)
 * Projects we are working on:
   * SmileCommunity
@@ -30,10 +34,6 @@
 
 ### MVP (5 min)
 * Create Paper Mockups and Present
-
-### WWW (Web Developmen)
-![Image of Anatomy of Web](../images/webdiagramjpg)
-![Image of Anatomy of Web Server](../images/webdiagramII.jpg)
 
 ### Motivation Tidbit (2 min)
 [Video](https://www.youtube.com/watch?v=mFPg96gdPkc)

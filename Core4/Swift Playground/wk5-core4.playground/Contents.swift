@@ -12,6 +12,7 @@ import UIKit
 var hello = "👋🏽, Girls Who Code!"
 print(hello)
 
+
 //can manipulate strings
 hello.characters.count
 print ("The 👋🏽 string has \(hello.characters.count) characters\n")
@@ -24,7 +25,7 @@ let cities = ["Chicago", "New York", "San Francisco"]
 let tvShows = ["Stranger Things", "Breaking Bad", "Fuller House"]
 
 //for loops
-for city in cities {
+for city in cities
     print("🌆 \(city)" )
 }
 print("\n")
