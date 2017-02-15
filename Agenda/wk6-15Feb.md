@@ -12,12 +12,20 @@
 * Cloud 9 Sign in 
 * Python and Flask to create our Web Applications
   * Localhost -> eventually out on GWC (live)
-* Follow Along: Functions
+* Follow Along in Codester: Functions
 * Setting up our What to Wear Weather App
 
 ### WWW (Web Developmen)
 ![Image of Anatomy of Web](../images/webdiagram.jpg)
 ![Image of Anatomy of Web Server](../images/webdiagramII.jpg)
+
+### Proposed New Format
+* Coding Exercise
+* Retrospective
+* Group Coding
+* Discussion
+* CS Impact Projects
+* Activity Set
 
 ### Discussion (10 min)
 * Projects we are working on:
