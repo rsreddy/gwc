@@ -7,13 +7,19 @@
     * Too easy/hard? What's up - let me know.
   * Things you didnt care for/dislike
   * Things you want to continue doing?
+* Recap
 
 ### Group Coding Exercise (15 min)
+* Follow Along in Codester: Functions and Overview of Core4
+  * [Conditionals](https://www.codesters.com/preview/598ad7f9b1574af697cbcbace19a9cc5/)
+  * [Functions](https://www.codesters.com/preview/ecfc3ffa2c3143d3ac74d6c74197ab13/)
+  * [Variables](https://www.codesters.com/preview/410823bd7ed3463c82f7d8d802fbf340/)
+  * [Loops](https://www.codesters.com/preview/656e6d77b73249d6b32f764df0133ab2/)
+* Setting up our What to Wear Weather App
+  * Lets try Lucid Chart
 * Cloud 9 Sign in 
 * Python and Flask to create our Web Applications
   * Localhost -> eventually out on GWC (live)
-* Follow Along in Codester: Functions
-* Setting up our What to Wear Weather App
 
 ### WWW (Web Developmen)
 ![Image of Anatomy of Web](../images/webdiagram.jpg)
@@ -21,8 +27,8 @@
 
 ### Proposed New Format
 * Coding Exercise
-* Retrospective
-* Group Coding
+* Retrospective - Want to try Recap?
+* Group Coding in Codesters
 * Discussion
 * CS Impact Projects
 * Activity Set
